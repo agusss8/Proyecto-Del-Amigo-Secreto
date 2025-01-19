@@ -1,6 +1,6 @@
 <em> Proyecto Del Amigo Secreto </em>
 
-Proyecto/Desafio de Oracle Next Education en Allura en el que tienes que hacer la funcionalidad de una pagina (con HTML y CSS ya incorporado) en JS para escribir nombres en una lista y sortear uno. 
+Proyecto/Desafio de Oracle Next Education en Alura en el que tienes que hacer la funcionalidad de una pagina (con HTML y CSS ya incorporado) en JS para escribir nombres en una lista y sortear uno. 
 
 
 <em> Explicacion de la funcion "agregarAmigo"</em>
