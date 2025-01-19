@@ -5,7 +5,9 @@ Proyecto/Desafio de Oracle Next Education en Allura en el que tienes que hacer l
 
 <em> Explicacion de la funcion "agregarAmigo"</em>
 
-Empece creando una lista, en la que iba almacenando cada nombre escrito en el TextBox con id "amigo", despues hice un ciclo for en el que recorria el array y por cada elemento de la lista iba creando un li para que se escriba en la pagina. Al finalizar este proceso, el TextBox se limpia para poder escribir otro nombre sin la necesidad de borrar. Tambien obviamente la funcion se hace si hay algo adentro del TextBox, sino lanza un alert advirtiendo que tiene que escribir un nombre. Cabe aclarar que el termino TextBox estoy haciendo referencia al input type text con id "amigo".
+Empece creando una lista, en la que iba almacenando cada nombre escrito en el TextBox con id "amigo", despues hice un ciclo for en el que recorria el array y por cada elemento de la lista iba creando un li para que se escriba en la pagina. Al finalizar este proceso, el TextBox se limpia para poder escribir otro nombre sin la necesidad de borrar. Tambien obviamente la funcion se hace si hay algo adentro del TextBox, sino lanza un alert advirtiendo que tiene que escribir un nombre. Ademas la funcion borra el texto del nombre sorteado anteriormente si es que hay.
+
+ Cabe aclarar que el termino TextBox estoy haciendo referencia al input type "text" con id "amigo".
 
 <em> Explicacion de la funcion "sortearAmigo"</em>
 
