@@ -9,7 +9,7 @@ Empece creando una lista, en la que iba almacenando cada nombre escrito en el Te
 
 <em> Explicacion de la funcion "sortearAmigo"</em>
 
-Cree una variable en la que se almacenaba un numero random en el que empieza con 0 y termina con el numero del tamanio del array que almacena los nombres, despues creo un LI en el que su textcontext pasa a ser un nombre de la lista seleccionado con el numero aleatorio generado.
+Cree una variable en la que se almacenaba un numero random en el que empieza con 0 y termina con el numero del tamanio del array que almacena los nombres, despues creo un LI en el que su textcontext pasa a ser un nombre de la lista seleccionado con el numero aleatorio generado. Luego, borro el contenido de la lista y los li en la pagina cuando terminado el sorteo. Todo esto pasa si el tamanio de la lista es mayor a 0, sino la pagina tira un alert avisando que no hay nombres en la lista para sortear.
 
 Quiero aclarar que los console.log que puse en ambas funcion son para demostrar en consola que las funciones andan correctamente.
 
