@@ -17,3 +17,8 @@ Quiero aclarar que los console.log que puse en ambas funcion son para demostrar 
 
 
 "Agustin Veron Principiante en Programación G8 - ONE"
+
+
+
+https://github.com/user-attachments/assets/a2988402-686d-4edf-801f-cc3911d3f32a
+
